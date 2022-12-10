@@ -1,0 +1,47 @@
+
+body{
+    padding-top: 100px;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.color{
+    width: 500px;
+    height:200px;
+    background-color: black;
+    transition: 0.2s;
+}
+
+.color:hover{
+    transition: 0.2s;
+    background-color: green;
+}
+
+
+
+.clock {
+    background-color: rgb(222, 186, 56);
+    color: #ffffff;
+    font-size: 200px;
+    font-family: Arial;
+    letter-spacing: 7px;
+    text-shadow: black 10px 10px 10px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
